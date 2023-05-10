@@ -8,6 +8,9 @@ authors = ["Fernando Perez Gomez <fernando.perez@wisphub.net>"]
 python = "^3.6"
 Django = "3.2"
 
+# deploy dependencies
+uWSGI = "^2.0.21"
+
 [tool.poetry.dev-dependencies]
 
 [build-system]
